@@ -1,0 +1,10 @@
+.social-icons {
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+}
+
+.fa-brands {
+    font-size: 30px;
+    color: white;
+}
